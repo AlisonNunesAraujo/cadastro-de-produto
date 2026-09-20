@@ -1,6 +1,7 @@
 # Cadastro de Produto
 
 API REST em Spring Boot para cadastro de produtos, com persistência em PostgreSQL.
+OBS: Ainda em desenvolvimento
 
 ## Endpoints
 
